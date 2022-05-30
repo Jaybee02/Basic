@@ -64,7 +64,8 @@ const myAdjective = "big";
 const myVerb = "ran";
 const myAdverb = "quickly";
 // Only change code below this line
-const worldBlanks = "The"+"big "+",brown"+"dog "+"ran "+",very"+ "quickly "+".";// change this line
+const worldBlanks = "The "+myAdjective+", brown "+myNoun +" "+myVerb+",very "+ myAdverb+".";
+console.log(worldBlanks);// change this line
 // only change code above this line Using the constants above, create your own sentence
 
 
